@@ -41,3 +41,6 @@ build/
 
 tests/
 .coverage
+
+frontend_2/
+frontend_backup/
